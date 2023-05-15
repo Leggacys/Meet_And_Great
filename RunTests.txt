@@ -1,0 +1,1 @@
+D:\Programs\Unity\Editors\2021.3.6f1\Editor\Unity.exe -runTests -batchmode -projectPath D:\TestFramework -testResults C:\temp\results.xml

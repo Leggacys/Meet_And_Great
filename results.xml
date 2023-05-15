@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="4" result="Passed" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2023-05-15 12:31:44Z" end-time="2023-05-15 12:31:44Z" duration="0.0526836">
+  <test-suite type="TestSuite" id="1011" name="TestFramework" fullname="TestFramework" runstate="Runnable" testcasecount="4" result="Passed" start-time="2023-05-15 12:31:44Z" end-time="2023-05-15 12:31:44Z" duration="0.052684" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties />
+    <test-suite type="Assembly" id="1017" name="EditMode.dll" fullname="D:/TestFramework/Library/ScriptAssemblies/EditMode.dll" runstate="Runnable" testcasecount="4" result="Passed" start-time="2023-05-15 12:31:44Z" end-time="2023-05-15 12:31:44Z" duration="0.043822" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="52592" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+      </properties>
+      <test-suite type="TestFixture" id="1012" name="DirectionsTest" fullname="DirectionsTest" classname="DirectionsTest" runstate="Runnable" testcasecount="4" result="Passed" start-time="2023-05-15 12:31:44Z" end-time="2023-05-15 12:31:44Z" duration="0.043006" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1015" name="EastDirection" fullname="DirectionsTest.EastDirection" methodname="EastDirection" classname="DirectionsTest" runstate="Runnable" seed="163481329" result="Passed" start-time="2023-05-15 12:31:44Z" end-time="2023-05-15 12:31:44Z" duration="0.009684" asserts="0">
+          <properties />
+          <output><![CDATA[EastDirection + Passed
+]]></output>
+        </test-case>
+        <test-case id="1013" name="NortDirection" fullname="DirectionsTest.NortDirection" methodname="NortDirection" classname="DirectionsTest" runstate="Runnable" seed="480389044" result="Passed" start-time="2023-05-15 12:31:44Z" end-time="2023-05-15 12:31:44Z" duration="0.000161" asserts="0">
+          <properties />
+          <output><![CDATA[NortDirection + Passed
+]]></output>
+        </test-case>
+        <test-case id="1014" name="SouthDirection" fullname="DirectionsTest.SouthDirection" methodname="SouthDirection" classname="DirectionsTest" runstate="Runnable" seed="2075722553" result="Passed" start-time="2023-05-15 12:31:44Z" end-time="2023-05-15 12:31:44Z" duration="0.000170" asserts="0">
+          <properties />
+          <output><![CDATA[SouthDirection + Passed
+]]></output>
+        </test-case>
+        <test-case id="1016" name="WestDirection" fullname="DirectionsTest.WestDirection" methodname="WestDirection" classname="DirectionsTest" runstate="Runnable" seed="1049075203" result="Passed" start-time="2023-05-15 12:31:44Z" end-time="2023-05-15 12:31:44Z" duration="0.000164" asserts="0">
+          <properties />
+          <output><![CDATA[WestDirection + Passed
+]]></output>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

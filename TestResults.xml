@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<TestResults>
-  <EastDirection>Passed</EastDirection>
-  <NortDirection>Passed</NortDirection>
-  <SouthDirection>Passed</SouthDirection>
-  <WestDirection>Passed</WestDirection>
-  <MovementTestWithEnumeratorPasses>Passed</MovementTestWithEnumeratorPasses>
-  <TweenMovementTestWithEnumeratorPasses>Passed</TweenMovementTestWithEnumeratorPasses>
-</TestResults>
